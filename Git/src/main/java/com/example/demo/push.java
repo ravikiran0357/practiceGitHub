@@ -2,6 +2,6 @@ package com.example.demo;
 
 public class push 
 {
-	String first =null;;
+	String first =null;
 
 }
