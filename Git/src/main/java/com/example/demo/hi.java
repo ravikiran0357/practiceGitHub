@@ -6,7 +6,7 @@ public class hi
 	
 	int i=10;
 	int j=40;
-	String name="pr"
+	String name="pr";
 	
 
 }
