@@ -11,6 +11,7 @@ public class newclass
 	
 	public void prasu() {
 		System.out.println("ppr");
+		
 	}
 	
 }
