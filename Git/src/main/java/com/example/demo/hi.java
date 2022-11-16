@@ -4,4 +4,6 @@ public class hi
 {
 	String nkjdd="first";
 
+	
+	String name="ravi";
 }
