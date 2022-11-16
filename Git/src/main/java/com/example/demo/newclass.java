@@ -9,6 +9,9 @@ public class newclass
 	String i="ffd";
 	}
 	
-	
+	public void prasu() {
+		System.out.println("ppr");
+		
+	}
 	
 }
