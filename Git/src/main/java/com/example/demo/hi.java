@@ -10,6 +10,7 @@ public class hi
 	int j=40;
 	String name1="pr";
 	String commit="second";
-	
+	String hai="kkr";
+	int y=1000;
 	
 }

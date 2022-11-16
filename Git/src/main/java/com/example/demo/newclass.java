@@ -13,5 +13,8 @@ public class newclass
 		System.out.println("ppr");
 		System.out.println("ppr");
 	}
+	public int intuuu() {
+		return 10;
+	}
 	
 }
