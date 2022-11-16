@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>practiceGitHub</name>
+=======
 	<name>practiceGitHubtest</name>
+>>>>>>> branch 'master' of https://github.com/ravikiran0357/practiceGitHub.git
 	<comment></comment>
 	<projects>
 	</projects>
