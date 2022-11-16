@@ -5,6 +5,8 @@ public class newclass
 	String changes="changes";
 
 	
-	
+	public void prasu() {
+		System.out.println("ppr");
+	}
 	
 }
