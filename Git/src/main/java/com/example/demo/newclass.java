@@ -16,7 +16,10 @@ int k=40;
 	
 	public void prasu() {
 		System.out.println("ppr");
-		
+		System.out.println("ppr");
+	}
+	public int intuuu() {
+		return 10;
 	}
 	
 }
