@@ -8,13 +8,10 @@ public class hi
 	int j=40;
 	String name1="pr";
 	
-double g=10.5;
 
 	
-	String name="ravi";
 	
-	
-	String commit="first";
+	String commit="second";
 	
 	
 }
